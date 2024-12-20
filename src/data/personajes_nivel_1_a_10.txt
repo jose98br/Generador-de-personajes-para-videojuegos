@@ -1,0 +1,151 @@
+Personajes de Nivel 1 a 10
+
+---
+
+Personaje: Guerrero Novato
+
+Apariencia: 
+Lleva una armadura de cuero desgastada y una espada corta.
+
+Resistencia: 
+
+Debilidades: 
+Vulnerable al fuego.
+
+Historia: 
+Un joven que ha decidido dejar su hogar para convertirse en un guerrero. Su viaje comienza en un pequeño pueblo donde ha escuchado historias de tesoros escondidos y criaturas míticas. A pesar de su inexperiencia, su determinación es inquebrantable. Se enfrenta a sus primeros desafíos, como bandidos y criaturas del bosque, aprendiendo a luchar y a sobrevivir en el camino.
+
+---
+
+Personaje: Mago Aprendiz
+
+Apariencia: 
+Viste una túnica azul con un sombrero puntiagudo.
+
+Resistencia: 
+
+Debilidades: 
+Débil en combate cuerpo a cuerpo.
+
+Historia: 
+Un joven que ha sido elegido por un antiguo libro de hechizos. Su curiosidad lo lleva a explorar el mundo en busca de conocimiento mágico. A medida que aprende nuevos hechizos, se enfrenta a criaturas mágicas y descubre secretos ocultos. Su viaje está lleno de descubrimientos y peligros, pero su deseo de aprender lo impulsa a seguir adelante.
+
+---
+
+Personaje: Explorador
+
+Apariencia: 
+Lleva ropa de viaje y una capa que le permite camuflarse.
+
+Resistencia: 
+
+Debilidades: 
+No es muy fuerte en combate directo.
+
+Historia: 
+Un aventurero que ha recorrido tierras lejanas en busca de tesoros y secretos. Su habilidad para moverse sigilosamente le permite evitar conflictos, pero también se enfrenta a desafíos inesperados. A lo largo de su viaje, descubre antiguas ruinas y se encuentra con otros aventureros, formando alianzas y enfrentando enemigos.
+
+---
+
+Personaje: Clérigo de la Luz
+
+Apariencia: 
+Viste una túnica blanca con símbolos sagrados.
+
+Resistencia: 
+
+Debilidades: 
+Vulnerable a la magia oscura.
+
+Historia: 
+Un devoto que ha dedicado su vida a ayudar a los necesitados. Su fe lo guía en su camino, y utiliza su poder para sanar a los heridos y proteger a los inocentes. Sin embargo, su bondad lo pone en peligro, ya que se enfrenta a fuerzas oscuras que buscan destruir lo que él protege. Su viaje es una lucha constante entre la luz y la oscuridad.
+
+---
+
+Personaje: Cazador de Bestias
+
+Apariencia: 
+Lleva un abrigo de piel y un arco largo.
+
+Resistencia: 
+
+Debilidades: 
+No es muy ágil.
+
+Historia: 
+Un experto en rastrear y cazar criaturas peligrosas. Su vida en el bosque le ha enseñado a sobrevivir en la naturaleza. Sin embargo, su habilidad para cazar lo lleva a descubrir un complot que amenaza a su hogar. A medida que investiga, se enfrenta a enemigos inesperados y debe decidir si luchar por su pueblo o seguir su propio camino.
+
+---
+
+Personaje: Bárbaro
+
+Apariencia: 
+Viste pieles de animales y lleva un hacha grande.
+
+Resistencia: 
+
+Debilidades: 
+Poco astuto en situaciones sociales.
+
+Historia: 
+Un guerrero de una tribu lejana que busca probar su valía. Su fuerza bruta lo hace temido, pero su falta de tacto lo lleva a conflictos innecesarios. A medida que viaja, aprende sobre la importancia de la estrategia y la diplomacia, enfrentándose a enemigos que no puede vencer solo con fuerza.
+
+---
+
+Personaje: Pícaro
+
+Apariencia: 
+Viste ropas oscuras y lleva dagas en ambas manos.
+
+Resistencia: 
+
+Debilidades: 
+Frágil en combate directo.
+
+Historia: 
+Un astuto ladrón que ha vivido en las sombras. Su habilidad para moverse sin ser visto le permite robar y escapar sin ser atrapado. Sin embargo, su vida de crimen lo lleva a hacer enemigos poderosos. A medida que se adentra en el mundo del crimen, debe decidir si seguir su camino o redimirse.
+
+---
+
+Personaje: Hechicero
+
+Apariencia: 
+Lleva una túnica negra y un bastón mágico.
+
+Resistencia: 
+
+Debilidades: 
+Vulnerable en combate cuerpo a cuerpo.
+
+Historia: 
+Un individuo que ha hecho un pacto con fuerzas oscuras para obtener poder. Su ambición lo lleva a buscar artefactos mágicos y conocimientos prohibidos. Sin embargo, su búsqueda de poder lo pone en conflicto con otros hechiceros y criaturas mágicas. A medida que avanza, debe decidir si el poder vale el precio que debe pagar.
+
+---
+
+Personaje: Bardo
+
+Apariencia: 
+Lleva ropas coloridas y un laúd.
+
+Resistencia: 
+
+Debilidades: 
+No es fuerte en combate.
+
+Historia: 
+Un viajero que utiliza la música para contar historias y ganar amigos. Su carisma le permite influir en otros, pero también lo pone en situaciones peligrosas. A medida que viaja, se enfrenta a enemigos que buscan silenciar su voz, y debe encontrar la manera de usar su música como arma.
+
+---
+
+Personaje: Monje
+
+Apariencia: 
+Viste túnicas simples y lleva un bastón.
+
+Resistencia: 
+
+Debilidades: 
+No es fuerte en combate a distancia.
+
+Historia: 
+Un buscador de la paz que ha dedicado su vida a la meditación y el autocontrol. Su viaje lo lleva a enfrentar conflictos internos y externos, y debe aprender a equilibrar su deseo de paz con la necesidad de luchar. A medida que se enfrenta a enemigos, descubre que la verdadera fuerza proviene de la calma interior.
